@@ -1,0 +1,8 @@
+com\example\roomiesync\model\User.class
+com\example\roomiesync\model\AuthRequest.class
+com\example\roomiesync\RoomiesyncApplication.class
+com\example\roomiesync\controller\UserController.class
+com\example\roomiesync\service\UserService.class
+com\example\roomiesync\controller\controller.class
+com\example\roomiesync\model\AuthResponse.class
+com\example\roomiesync\repository\UserRepository.class
